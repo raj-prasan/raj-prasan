@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **rajprasanj@gmail.com**
 
-- ⚡ Fun fact **I am doing major in ElectricalEngineering**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
