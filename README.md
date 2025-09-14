@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/raj-prasan](https://github.com/raj-prasan)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://raj-prasan.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript**
 
