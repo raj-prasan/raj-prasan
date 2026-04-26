@@ -1,66 +1,59 @@
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <h1>Hi, I'm Prasan Raj </h1>
+  <p>Aspiring software engineer who loves turning ideas into working software</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-prasan.tech-000000?style=flat)](https://www.prasan.tech/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-prasan--raj-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/prasan-raj/)
+  [![Email](https://img.shields.io/badge/Email-rajprasanj%40gmail.com-D14836?style=flat&logo=gmail)](mailto:rajprasanj@gmail.com)
 </div>
-
-###
-
-<h2 align="center">Hello, It's Prasan Raj</h2>
-
-###
-
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raj-prasan&layout=compact)
-
-###
-
-<img align="right" height="174" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODMzazV3YWdoaDFtd2cxeXdoczQ0aTRuMnU1ZnlycW16NGxwbGhjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif"  />
-
-###
-<h3 align="center">💻 Tech Stack:</h3>
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-###
-
-<div align="right">
-  <a href="https://www.instagram.com/prasanisnotsane" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=prasanisnotsane&logo=instagram&label=IG&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="discord logo"  />
-  <a href="mailto:rajprasanj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=rajprasanj@gmail.com&logo=gmail&label=Mail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/prasan-raj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=prasan-raj&logo=linkedin&label=LinkedIn&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
-## My Contribution Graph
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raj-prasan/raj-prasan/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raj-prasan/raj-prasan/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raj-prasan/raj-prasan/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
-<br clear="both">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+## About Me
+
+I'm a full-stack developer focused on building clean, scalable web applications. I work primarily with **TypeScript, React, and Node.js**, and I'm passionate about writing code that solves real problems.
+
+Currently looking for **remote software engineering opportunities** where I can contribute to meaningful projects and grow as a developer.
+
+**What I bring:**
+- Strong foundation in data structures, algorithms, and OOP
+- Experience building full-stack applications from scratch
+- Focus on writing maintainable, well-structured code
+- Quick learner who's comfortable picking up new technologies
+
+## Tech Stack
+
+**Languages & Databases**  
+`TypeScript` `Node.js` `C++` `PostgreSQL` `MongoDB` `MySQL` `Redis`
+
+**Frameworks & Libraries**  
+`Next.js` `React` `Express.js` `Tailwind CSS` `REST APIs`
+
+**Tools & Platforms**  
+`Git` `Postman` `Vercel`
+
+
+## Featured Project
+
+
+### [sunoAI](https://github.com/raj-prasan/sunoAI)
+AI journaling platform for mental well-being
+🔗 [Live Demo](https://sunoai.prasan.tech/) | 💻 [Code](https://github.com/raj-prasan/sunoAI)
+
+
+## Let's Connect
+
+I'm actively looking for remote software engineering roles and always open to collaborating on interesting projects.
+- 🌐 [Portfolio](https://www.prasan.tech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prasan-raj/)
+- 📧 [rajprasanj@gmail.com](mailto:rajprasanj@gmail.com)
+- 🌐 Based in India
+
+---
+
+<div align="center">
+  <i>Open to remote opportunities • Available for collaboration • Always learning</i>
 </div>
-
-###
-
-
-###
 
 
 
