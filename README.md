@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Hi, I'm Prasan Raj </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Prasan+Raj+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Applications;Open+to+Remote+Opportunities" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <p>Aspiring software engineer who loves turning ideas into working software</p>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-prasan.tech-000000?style=flat)](https://www.prasan.tech/)
@@ -21,40 +24,54 @@ Currently looking for **remote software engineering opportunities** where I can 
 - Focus on writing maintainable, well-structured code
 - Quick learner who's comfortable picking up new technologies
 
-## Tech Stack
+---
 
-**Languages & Databases**  
-`TypeScript` `Node.js` `C++` `PostgreSQL` `MongoDB` `MySQL` `Redis`
+## 🛠️ Tech Stack
 
-**Frameworks & Libraries**  
-`Next.js` `React` `Express.js` `Tailwind CSS` `REST APIs`
+<div align="center">
 
-**Tools & Platforms**  
-`Git` `Postman` `Vercel`
+**Languages & Databases**
 
+<img src="https://skillicons.dev/icons?i=ts,nodejs,cpp,postgres,mongodb,mysql,redis" />
 
-## Featured Project
+**Frameworks & Libraries**
 
+<img src="https://skillicons.dev/icons?i=nextjs,react,express,tailwind" />
 
-### [sunoAI](https://github.com/raj-prasan/sunoAI)
-AI journaling platform for mental well-being
-🔗 [Live Demo](https://sunoai.prasan.tech/) | 💻 [Code](https://github.com/raj-prasan/sunoAI)
+**Tools & Platforms**
 
+<img src="https://skillicons.dev/icons?i=git,postman,vercel,vscode" />
 
-## Let's Connect
+</div>
 
-I'm actively looking for remote software engineering roles and always open to collaborating on interesting projects.
-- 🌐 [Portfolio](https://www.prasan.tech)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prasan-raj/)
-- 📧 [rajprasanj@gmail.com](mailto:rajprasanj@gmail.com)
-- 🌐 Based in India
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/raj-prasan/sunoAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raj-prasan&repo=sunoAI&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.prasan.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasan-raj/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajprasanj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj-prasan)
+
+</div>
 
 ---
 
 <div align="center">
   <i>Open to remote opportunities • Available for collaboration • Always learning</i>
 </div>
-
 
 
 
